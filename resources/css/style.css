@@ -1,7 +1,7 @@
 body {
   background-color: black;
   text-align: center;
-  font-family: Verdana;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .header--main {
@@ -10,7 +10,7 @@ body {
   color: white;
 }
 
-body a {
+.link--cta {
   color: aquamarine;
   font-size: 16px;
 }
